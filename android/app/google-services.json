@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084808210486",
+    "project_id": "ethanbabywear",
+    "storage_bucket": "ethanbabywear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084808210486:android:e1f4ba2546a02a2db15097",
+        "android_client_info": {
+          "package_name": "com.kzn.ethanbaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084808210486-hqvar2t59qn5oemv58075bji0ea5497r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.ethanbaby",
+            "certificate_hash": "4027f9b1f6d4a82b3d9b2f2c937e863b223dd1b5"
+          }
+        },
+        {
+          "client_id": "1084808210486-h3uqsa2kg0ms5hh389hrv2qu1jbvrhad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUv7D8K9F3y4uybLh-tYffqGv4t8lus8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084808210486-h3uqsa2kg0ms5hh389hrv2qu1jbvrhad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

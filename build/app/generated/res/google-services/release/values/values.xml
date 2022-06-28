@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1084808210486-h3uqsa2kg0ms5hh389hrv2qu1jbvrhad.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1084808210486</string>
+    <string name="google_api_key" translatable="false">AIzaSyBVUv7D8K9F3y4uybLh-tYffqGv4t8lus8</string>
+    <string name="google_app_id" translatable="false">1:1084808210486:android:e1f4ba2546a02a2db15097</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBVUv7D8K9F3y4uybLh-tYffqGv4t8lus8</string>
+    <string name="google_storage_bucket" translatable="false">ethanbabywear.appspot.com</string>
+    <string name="project_id" translatable="false">ethanbabywear</string>
+</resources>
